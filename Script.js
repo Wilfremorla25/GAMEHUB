@@ -1,7 +1,6 @@
 const filterButtons = document.querySelectorAll('.filter-btn');
 const gameCards = document.querySelectorAll('.card');
 const searchInput = document.getElementById('searchInput');
-
 let activeGenre = 'all'; // Guardar el filtro activo
 
 // Filtrar por género
